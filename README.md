@@ -1,4 +1,4 @@
-# FINAL PROJECT : CRNN
-2020 Spring Machine Learning Final Project
+# FINAL PROJECT : Cap2TxT
+2020 Spring Machine Learning Class Final Project
 
-
+ㅅㅂ..
