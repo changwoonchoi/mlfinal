@@ -3,3 +3,4 @@ matplotlib
 jupyterlab
 numpy
 jupyterthemes
+pyyaml
