@@ -1,2 +1,4 @@
-# mlfinal
-2020 Spring Machine Learning Final Projevct
+# FINAL PROJECT : CRNN
+2020 Spring Machine Learning Final Project
+
+
