@@ -1,7 +1,0 @@
-#CONFIG FILE FOR PARAMETER TUNING.
-
-epoch : 1000
-lr : 0.001
-n_layers : 2
-batch : 256
-

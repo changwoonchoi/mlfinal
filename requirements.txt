@@ -4,3 +4,5 @@ jupyterlab
 numpy
 jupyterthemes
 pyyaml
+opencv-python
+lmdb
