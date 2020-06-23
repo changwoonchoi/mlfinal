@@ -4,7 +4,7 @@
 
 This is PyTorch implementation of Cap2TxT, CNN+LSTM+CTC Network for OCR. (Final Project for 2020 Spring ML Class) It takes input of arbitrary size, has capability of any text length to transcript.
 
-[**Paper**](https://github.com/changwoonchoi/mlfinal/tree/master/report)
+[**Paper**](https://github.com/changwoonchoi/mlfinal/blob/master/report/2020Spring_ML_final_2014_17733.pdf)
 <a href="/report/2020Spring_ML_final_2014_17733.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
 ## Dependence
