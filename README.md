@@ -1,6 +1,4 @@
 # Cap2TxT: Captcha to Text, An End-to-End Hybrid Neural Network for Captcha Image Text Sequence Recognition
-<br>
-<br>
 
 ## About
 
