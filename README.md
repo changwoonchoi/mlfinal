@@ -16,7 +16,7 @@ This is PyTorch implementation of Cap2TxT, CNN+LSTM+CTC Network for OCR. (Final 
 - jupyterlab
 
 ## Installation
- ** conda environment setting **
+ **conda environment setting**
 
 ```
 conda create -n cap2txt python=3.7
