@@ -33,17 +33,7 @@ def writeCache(env, cache):
             txn.put(k,v)
 
 def createDataset(outputPath, imagePathList, labelList, lexiconList=None, checkValid=True):
-    """
-    Create LMDB dataset for CRNN training.
-
-    ARGS:
-        outputPath    : LMDB output path
-        imagePathList : list of image path
-        labelList     : list of corresponding groundtruth texts
-        lexiconList   : (optional) list of lexicon lists
-        checkValid    : if true, check the validity of every image
-    """
-    # If lmdb file already exists, remove it. Or the new data will add to it.
+   
     if os.path.exists(outputPath):
         shutil.rmtree(outputPath)
         os.makedirs(outputPath)
