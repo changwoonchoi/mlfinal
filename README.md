@@ -29,11 +29,33 @@ pip install -r requirements.txt
 ```
 
 ## Train Network
+### File Directory
+```
+REAME.md
+\DATA
+  \train
+  \test
+  \train_prepared
+  train.txt
+  test.txt
+\ckpt
+main.ipynb
+misc.py
+misc_2.py
+misc_3.py
+utils.py
+create_dataset.py
+requirements.txt
+```
+
 ### Prepare Dataset
-1.
-2.
-3.
-4.
+You can prepare dataset easily by following the code in main.ipynb.
+
+```
+python misc.py
+python misc_2.py
+python misc_3.py
+```
 
 
 
