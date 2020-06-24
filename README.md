@@ -54,7 +54,8 @@ You can prepare dataset easily by following the code in main.ipynb.
 ```
 python misc.py
 python misc_2.py
-python misc_3.py
+python misc_3.p
+python create_dataset.py
 ```
 
 
