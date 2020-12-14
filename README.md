@@ -1,8 +1,8 @@
-# Cap2TxT: Captcha to Text, An End-to-End Hybrid Neural Network for Captcha Image Text Sequence Recognition
+# Captcha to Text
 
 ## About
 
-This is PyTorch implementation of Cap2TxT, CNN+LSTM+CTC Network for OCR. (Final Project for 2020 Spring ML Class) It takes input of arbitrary size, has capability of any text length to transcript.
+This is PyTorch implementation of Cap2TxT, CNN+LSTM+CTC Network for OCR. (Final Project for 2020 Spring ML Class)
 
 [**Paper**](https://github.com/changwoonchoi/mlfinal/blob/master/report/2020Spring_ML_final_2014_17733.pdf)
 <a href="/report/2020Spring_ML_final_2014_17733.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
@@ -49,7 +49,7 @@ requirements.txt
 ```
 
 ### Prepare Dataset
-You can prepare dataset easily by following the code in main.ipynb.
+You can prepare dataset by following the code in main.ipynb.
 
 ```
 python misc.py
